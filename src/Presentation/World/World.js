@@ -30,7 +30,7 @@ export default class World
             // this.presentation.outline.selectedObjects.push(this.engine.model)
             // this.engine.model.position.x = 0
             // this.engine.model.position.y = 2
-            this.engine.model.position.z = 0.83
+            this.engine.model.position.z = 0
             // console.log(this.engine.model.children)
             this.engine.model.children.forEach(part => {
                  part.meterial = new THREE.MeshStandardMaterial()

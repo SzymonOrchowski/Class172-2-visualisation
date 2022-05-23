@@ -20,7 +20,7 @@ const sources = [
         {
             name: 'engineModel',
             type: 'fbxModel',
-            path: 'models/class172_3.fbx'
+            path: 'models/class172_2.fbx'
         }
     ]
 

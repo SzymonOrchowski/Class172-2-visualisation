@@ -35,7 +35,6 @@ export default class World
             this.engine.model.children.forEach(part => {
                  part.meterial = new THREE.MeshStandardMaterial()
                  part.material.shininess = 0
-                 console.log()
             //     part.material.color.r = 0.2
             //     part.material.color.g = 0.2
             //     part.material.color.b = 0.3
